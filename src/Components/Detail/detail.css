@@ -1,0 +1,31 @@
+.detail-head{
+    font-family: "roboto";
+    font-size: 50px;
+    
+}
+
+.detail-read{
+    
+    background-color: rgb(255, 253, 251);
+    margin: 40px;
+}
+
+.detail-content{
+    
+font-family: "roboto";
+font-size:20px ;
+}
+
+.detail-content img{
+    max-width: 100%;
+    object-fit: cover;
+}
+.subTopicContainer{
+    flex: 1 0 auto;
+    background-color:rgb(255, 255, 255);
+    padding: 10px;
+    
+   }
+
+
+ 

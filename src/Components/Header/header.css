@@ -1,0 +1,73 @@
+.home-section {
+   border-radius: 20px;
+  background: url(../../Asset/home-bg.jpg);
+  }
+  .blog-section {
+    border-radius: 20px;
+  
+   background: url(../../Asset/blog-head.jpg);
+   }
+
+  .main-name {
+    color: #a558c3;
+  }
+
+  .home-content {
+    padding: 2rem 0  ;
+    color: rgb(255, 255, 255);
+    
+    
+    
+  }
+.all-bloghead{
+  
+  font-family: "roboto";
+  font-size: 40px;
+  background: rgba(255, 255, 255, 0.01);
+    
+    backdrop-filter: blur(5px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 33px;
+    margin: 150px;
+}
+
+@media (max-width: 1000px) {
+  all-bloghead {
+    text-align: center;
+    font-family: "roboto";
+    font-size: 40px;
+    background: rgba(255, 255, 255, 0.01);
+      
+      backdrop-filter: blur(5px);
+      /* Note: backdrop-filter has minimal browser support */
+      border-radius: 33px;
+      margin: 20px;
+  }
+}
+  .boxhome{
+    background: rgba(255, 255, 255, 0.01);
+    
+    
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 33px;
+    padding: 50px;
+    text-align: left;
+
+  }
+  .blogboxhome{
+    
+    
+
+  }
+
+.img-fluid{
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rocket-container{
+  display: flex;
+  justify-content: center;
+  margin-top:30px ;
+}
